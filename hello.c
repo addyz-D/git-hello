@@ -2,6 +2,6 @@
 
 int main() {
     printf("Hello Git!\n");
-    printf("Version: 1.0.0\n");
+    printf("info\n");
     return 0;
 }
