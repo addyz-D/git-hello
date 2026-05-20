@@ -2,6 +2,6 @@
 
 int main() {
     printf("Hello Git!\n");
-    printf("This is my second version.\n");
+    printf("你好，Git！\n");
     return 0;
 }
