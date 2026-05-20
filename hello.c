@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello Git!\n");
-    printf("你好，Git！\n");
+    printf("Hello from feature A!\n");
     return 0;
 }
